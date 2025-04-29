@@ -2,15 +2,16 @@
 /GCW_2024
 /TMP_2024
 
-#markdown output
+#markdown output and images
 *.html
+*.png
 
 # History files
 .Rhistory
 .Rapp.history
 
 # Data files
-.RDS
+*.RDS
 .RData
 .RDataTmp
 
